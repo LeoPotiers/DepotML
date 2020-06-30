@@ -1,7 +1,7 @@
 FROM tensorflow/tensorflow:latest-gpu
 WORKDIR /tensorflow
 
-RUN pip install Cython contextlib2 pillow lxml jupyter matplotlib tf_slim --no-cache-dir
+RUN pip install protobuf-compiler Cython contextlib2 pillow lxml jupyter matplotlib tf_slim --no-cache-dir
 
 ADD https://github.com/tensorflow/models/archive/master.zip /
 RUN unzip /master.zip
@@ -14,6 +14,14 @@ RUN ./bin/protoc object_detection/protos/*.proto --python_out=.
 
 
 ADD . .
+CMD export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
+
+
+CMD python3 setup.py build
+CMD python3 setup.py install
+
+WORKDIR /tensorflow/models-master/research/
+
 
 CMD python3 CodeML.py
 
