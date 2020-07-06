@@ -1,0 +1,29 @@
+<annotation>
+    <folder>Images2</folder>
+    <filename>image_55.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>screw</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>92</xmin>
+            <ymin>251</ymin>
+            <xmax>153</xmax>
+            <ymax>287</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>hole</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>145</xmin>
+            <ymin>387</ymin>
+            <xmax>190</xmax>
+            <ymax>418</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+    <folder>Images2</folder>
+    <filename>image_66.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>rivet</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>20</xmin>
+            <ymin>119</ymin>
+            <xmax>111</xmax>
+            <ymax>205</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>rivet</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>616</xmin>
+            <ymin>155</ymin>
+            <xmax>695</xmax>
+            <ymax>231</ymax>
+        </bndbox>
+    </object>
+</annotation>

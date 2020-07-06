@@ -1,0 +1,19 @@
+<annotation>
+    <folder>Images2</folder>
+    <filename>image_6.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>screw</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>296</xmin>
+            <ymin>212</ymin>
+            <xmax>385</xmax>
+            <ymax>321</ymax>
+        </bndbox>
+    </object>
+</annotation>

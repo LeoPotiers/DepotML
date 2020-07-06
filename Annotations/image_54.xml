@@ -1,0 +1,19 @@
+<annotation>
+    <folder>Images2</folder>
+    <filename>image_54.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>hole</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>659</xmin>
+            <ymin>396</ymin>
+            <xmax>738</xmax>
+            <ymax>454</ymax>
+        </bndbox>
+    </object>
+</annotation>

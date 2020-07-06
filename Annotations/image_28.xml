@@ -1,0 +1,29 @@
+<annotation>
+    <folder>Images2</folder>
+    <filename>image_28.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>screw</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>315</xmin>
+            <ymin>253</ymin>
+            <xmax>419</xmax>
+            <ymax>343</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>hole</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>668</xmin>
+            <ymin>53</ymin>
+            <xmax>725</xmax>
+            <ymax>96</ymax>
+        </bndbox>
+    </object>
+</annotation>
