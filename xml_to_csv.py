@@ -1,11 +1,11 @@
 #Usage:
 # Create train data:
 #python3 xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/train -o [PATH_TO_ANNOTATIONS_FOLDER]/train_labels.csv
-#python3 xml_to_csv.py -i /tensorflow/models-master/research/DepotML/train -o /tensorflow/models-master/research/DepotML/data/train_labels.csv
+#python3 xml_to_csv.py -i /tensorflow/models-master/research/DepotML/Train -o /tensorflow/models-master/research/DepotML/data/train_labels.csv
 
 # Create test data:
 #python3 xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/test -o [PATH_TO_ANNOTATIONS_FOLDER]/test_labels.csv
-#python3 xml_to_csv.py -i /tensorflow/models-master/research/DepotML/test -o /tensorflow/models-master/research/DepotML/data/test_labels.csv
+#python3 xml_to_csv.py -i /tensorflow/models-master/research/DepotML/Test -o /tensorflow/models-master/research/DepotML/data/test_labels.csv
 
 import os
 import glob
