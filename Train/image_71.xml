@@ -1,0 +1,29 @@
+<annotation>
+    <folder>2</folder>
+    <filename>image_71.jpg</filename>
+    <size>
+        <width>580</width>
+        <height>580</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>bolt</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>189</xmin>
+            <ymin>295</ymin>
+            <xmax>216</xmax>
+            <ymax>322</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>bolt</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>161</xmin>
+            <ymin>276</ymin>
+            <xmax>183</xmax>
+            <ymax>304</ymax>
+        </bndbox>
+    </object>
+</annotation>

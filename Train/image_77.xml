@@ -1,0 +1,29 @@
+<annotation>
+    <folder>2</folder>
+    <filename>image_77.jpg</filename>
+    <size>
+        <width>474</width>
+        <height>316</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>screw</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>315</xmin>
+            <ymin>119</ymin>
+            <xmax>331</xmax>
+            <ymax>133</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>screw</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>273</xmin>
+            <ymin>106</ymin>
+            <xmax>287</xmax>
+            <ymax>119</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+    <folder>2</folder>
+    <filename>image_132.jpg</filename>
+    <size>
+        <width>474</width>
+        <height>267</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>rivet</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>332</xmin>
+            <ymin>180</ymin>
+            <xmax>403</xmax>
+            <ymax>249</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>rivet</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>344</xmin>
+            <ymin>11</ymin>
+            <xmax>398</xmax>
+            <ymax>62</ymax>
+        </bndbox>
+    </object>
+</annotation>

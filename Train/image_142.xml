@@ -1,0 +1,19 @@
+<annotation>
+    <folder>2</folder>
+    <filename>image_142.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1200</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>bolt</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>765</xmin>
+            <ymin>375</ymin>
+            <xmax>994</xmax>
+            <ymax>602</ymax>
+        </bndbox>
+    </object>
+</annotation>

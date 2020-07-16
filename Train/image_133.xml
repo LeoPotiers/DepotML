@@ -1,0 +1,29 @@
+<annotation>
+    <folder>2</folder>
+    <filename>image_133.jpg</filename>
+    <size>
+        <width>474</width>
+        <height>283</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>bolt</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>102</xmin>
+            <ymin>216</ymin>
+            <xmax>146</xmax>
+            <ymax>262</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>rivet</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>391</xmin>
+            <ymin>235</ymin>
+            <xmax>455</xmax>
+            <ymax>283</ymax>
+        </bndbox>
+    </object>
+</annotation>

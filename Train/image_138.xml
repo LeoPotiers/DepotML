@@ -1,0 +1,29 @@
+<annotation>
+    <folder>2</folder>
+    <filename>image_138.jpg</filename>
+    <size>
+        <width>3264</width>
+        <height>2448</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>bolt</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2871</xmin>
+            <ymin>999</ymin>
+            <xmax>2991</xmax>
+            <ymax>1103</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>bolt</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1518</xmin>
+            <ymin>1438</ymin>
+            <xmax>1662</xmax>
+            <ymax>1569</ymax>
+        </bndbox>
+    </object>
+</annotation>
